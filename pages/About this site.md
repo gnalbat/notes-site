@@ -1,0 +1,7 @@
+public:: true
+
+- The domain
+	- I'm a fan of [domain hacks](https://en.wikipedia.org/wiki/Domain_hack), they are so cool, short and catchy. In this case I opted for the reverse of my surname, since [tabla.ng](https://tabla.ng) was expensive at the time. I eventually bought it anyway, so I figured I'd use this for something useful.
+- The notes
+	- I have been interested in a blog to serve as a place to keep my thoughts, not that I am good at writing or taking notes. If you knew me from way back when, you may have known of the Wordpress sites I hosted on free shared hosting sites with cPanel (which are obsolete for small sites such as these nowadays, but that's another topic for another time), and may have read on the teenage angsty writing there (which I do not regret but tremble over the shame of writing them). I do not disown them but I would like to say that they do not reflect what I am now.
+	- I got interested on note-taking from a site I visited from the r/LearnJapanese subreddit, where I discovered about the Zettelkasten method of linking notes to connect your thoughts. Not that I have been good at taking notes since then, but I thought that I would at least try. Some software I have encountered during the process are [Quartz](https://github.com/jackyzha0/quartz) and [Obsidian](https://obsidian.md/), whose workflow is too tedious for me to tinker on. This site is made with [Logseq](https://logseq.com/), which I hope I can work with.
