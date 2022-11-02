@@ -16,6 +16,9 @@
  {:block/name "cancelled",
   :block/created-at 1667409752210,
   :block/updated-at 1667409752210}
+ {:block/name "card",
+  :block/created-at 1667413324267,
+  :block/updated-at 1667413324267}
  {:block/name "contents",
   :block/created-at 1667409752210,
   :block/updated-at 1667409752210}
