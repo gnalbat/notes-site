@@ -49,3 +49,9 @@ a.delete { display: none; }
 
 /** Remove superfluous spacing on block embeds in Firefox */
 .block-content.inline { white-space: revert; }
+
+/* Make TODO non-clickable */
+span:is(.todo, .done) > :is(.marker-switch, input) { pointer-events: none; }
+
+/* Make block ref icon non-clickable, clicking causes a crash for some reason */
+.open-block-ref-link { pointer-events: none; }

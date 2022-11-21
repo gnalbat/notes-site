@@ -1,0 +1,3 @@
+- [[Anime]]
+- [[Manga]]
+- [[Visual Novels]]
